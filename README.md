@@ -3,7 +3,7 @@ webapp-assemble
 
 This project is a merge of [http://assemble.io/](Assemble.io) with [http://yeoman.io/](Yeoman.io) webapp.
 
-The webapp generator can be found at [https://github.com/yeoman/generator-webapp] currently version 0.4.8
+The webapp generator can be found at [https://github.com/yeoman/generator-webapp] included version 0.4.8
 
 Assemble is version 0.4.37
 
